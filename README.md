@@ -11,4 +11,4 @@ Taller 2
     <p>Para esto esta "Directorio UIS" , Sera una pagina donde los estudiantes podran entrar 
     a ver y añadir cuantas referencias puedan de cada profesor con el que haya cursado, para 
     que cuando nuevos estudiantes vayan a tener alguna materia con ese profesor, sea tan 
-    sencillo como entrar a la pagina "Directorio UIS" y buscar al profesor.
+    sencillo como entrar a la pagina "Directorio UIS" y buscar al profesor. </p>
