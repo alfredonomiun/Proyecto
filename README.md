@@ -1,5 +1,4 @@
-# Taller2
-Taller 2
+# Proyecto
 <p>este grupo solo se conforma por un estudiante el cual es Alfredo Nieto Gutierrez con codigo :2200137
     <br>
     <br>
